@@ -1,1 +1,2 @@
-export { TablePage } from "./TablePage";
+export { SearchContainer } from "./SerachContainer";
+export { Table } from "./Table";

@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const RowVegetablesContainer = styled.div`
-  width: 80vh;
+  margin-bottom: 48px;
+  width: 780px;
   border-top: 1px solid #000;
   display: flex;
   flex-direction: column;
