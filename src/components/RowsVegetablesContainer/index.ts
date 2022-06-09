@@ -1,0 +1,1 @@
+export { RowsVegetablesContainer } from "./RowsVegetablesContainer";
